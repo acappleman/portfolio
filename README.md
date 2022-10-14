@@ -6,7 +6,7 @@ This challenge was completed in order to created a portfolio using HTML and CSS.
 
 ## Installation
 
-ToYou can acces the porfolio using GitHib Pages. 
+You can access the porfolio using GitHib Pages. 
 
 [Portfolio Link](https://acappleman.github.io/portfolio)
 
