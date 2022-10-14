@@ -2,11 +2,13 @@
 
 ## Description
 
-This challenge was completed in order to practice refactoring and improving the accessibility of starter code using HTML, CSS and Git.
+This challenge was completed in order to created a portfolio using HTML and CSS. The portfolio includes working links and a responsive UI. 
 
 ## Installation
 
-To view the module 1 challenge, utilize GitHub.
+ToYou can acces the porfolio using GitHib Pages. 
+
+[Portfolio Link](https://acappleman.github.io/portfolio)
 
 ## Usage
 
@@ -16,7 +18,7 @@ Below is a screen recording of the completed webpage and it's functionality.
 
 ## Credits
 
-Thanks to w3schools for HTML and CSS tutorials.
+Thanks to [w3schools](https://w3schools.com) for HTML and CSS tutorials. [Pexels](https://www.pexels.com) was used for stock images and [ezgif](https://ezgif.com) was used to convert the screen recording into a gif.
 
 ## License
 
