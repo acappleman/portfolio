@@ -12,7 +12,7 @@ To view the module 1 challenge, utilize GitHub.
 
 Below is a screen recording of the completed webpage and it's functionality.
 
-![Completed Challenge Screen Recording](assets/videos/screen-recording.mp4)
+![Completed Challenge Screen Recording](assets/images/screen-recording.gif)
 
 ## Credits
 
