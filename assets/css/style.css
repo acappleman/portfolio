@@ -68,7 +68,11 @@ nav a {
 }
 
 #challenge-2 {
-    background-image: url("../images/pexels-fauxels-3183197.jpg");
+    background-image: url(../images/park-finder-logo.png);
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
 }
 
 #challenge-3 {
