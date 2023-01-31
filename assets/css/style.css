@@ -77,6 +77,7 @@ nav a {
 
 #challenge-3 {
     background-image: url("../images/BackyardSportsLogo1.png");
+    background-position-y: bottom;
 }
 
 #challenge-4 {
